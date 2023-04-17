@@ -1,0 +1,83 @@
+﻿Extra Credit: Company Stack Research
+* Identify 3 software or technology companies the interest you.
+* Conduct research to figure out some or all of the elements of each company’s technology stack. Check job openings/job descriptions, engineering blogs, and anything else that may have information about what the company uses to write/build it’s software products.
+* Record your findings in a google doc. If you can find information about why the company chose that stack, include that as well.
+* Save your files and push them to GitHub with your code.
+
+
+Overview
+I chose my companies based on those who seemed like they were involved in the developer community and promoted open source, ethical technology. I’m interested in roles that merge technical work with community-building as well, so those are the roles I highlighted. 
+One interesting thing to note is that no companies I looked at had any Junior Developer roles.
+
+
+I focused on 4 areas to look into: 
+* Overview and why they are focused on ethics/community/open source
+* Hiring and hiring practices
+* Roles that are open
+* People I might know
+* Their tech stack and github presence
+DigitalOcean
+Overview: DigitalOcean is a cloud infrastructure provider that provides virtual private servers, object storage, and managed databases. They are focused on ethics and community because they believe in simplicity, transparency, and open-source software. 
+
+
+Hiring Practices: 
+* Hiring fairly seems really important to them: 
+   * https://www.digitalocean.com/careers/resources
+   * https://www.digitalocean.com/careers
+* No relevant roles - but I can submit a general application: 
+   * https://www.digitalocean.com/careers/position/apply?gh_jid=4385190
+
+
+People I might know: 
+* I don’t know anyone there. 
+
+
+Tech Stack and Github Presence: 
+* This website mentions a bunch of things in their stack: https://stackshare.io/digitalocean/digitalocean
+* Their github profile: https://github.com/digitalocean
+   * Looks like their stack includes:
+      * Go
+      * Kubernetes
+      * Python
+      * Then it looks like they have a bunch of example applications in many different languages.
+
+
+Cloudflare
+Overview: Cloudflare is a web infrastructure and security company that provides content delivery network, DDoS mitigation, and internet security services. They are focused on ethics and community because they believe in protecting user privacy and promoting an open and secure internet. 
+
+
+Hiring Practices: 
+* Open Jobs that are interesting:
+   * https://boards.greenhouse.io/cloudflare/jobs/4263487?gh_jid=4263487
+
+
+People I might know: 
+* I don’t know anyone here, but I found a girl who works there who seems cool:
+   * https://github.com/Erisa
+
+
+Tech Stack and Github Presence: 
+   * Their github profile: https://github.com/cloudflare
+      * Based on their github profile, looks like Rust, Javascript, and Go. 
+
+
+HashiCorp
+
+
+Overview: HashiCorp is a software company that provides open-source tools for cloud infrastructure automation. They are focused on ethics and community because they believe in collaboration, innovation, and open-source software. 
+
+
+Hiring Practices: 
+* Open Jobs that are interesting:
+   * https://www.hashicorp.com/career/4742600
+   * https://www.hashicorp.com/career/4834318
+
+
+People I might know: 
+* People I know there: 
+   * https://www.linkedin.com/in/brianrstarr/
+
+
+Tech Stack and Github Presence: 
+* Their stack: https://stackshare.io/hashicorp/hashicorp
+* All of their products are open-source: https://github.com/hashicorp
